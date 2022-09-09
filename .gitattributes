@@ -48,6 +48,24 @@
 *.srt linguist-detectable=true
 *.srt linguist-documentation=false
 *.srt linguist-language=SubRip-Text
+# C Source file
+*.c linguist-detectable=true
+*.c linguist-documentation=false
+*.c linguist-language=C
+*.h linguist-detectable=true
+*.h linguist-documentation=false
+*.h linguist-language=C
+# Tcl Source file
+*.tcl linguist-detectable=true
+*.tcl linguist-documentation=false
+*.tcl linguist-language=Tcl
+*.tbc linguist-detectable=true
+*.tbc linguist-documentation=false
+*.tbc linguist-language=Tcl
+# Prolog Source file
+*.pro linguist-detectable=true
+*.pro linguist-documentation=false
+*.pro linguist-language=Prolog
 # YAML (YAML Ain't Markup Language) document
 # Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
 *.yml linguist-detectable=false
@@ -164,7 +182,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Friday, September 9th at 3:38 pm PST)
+# Line count (including blank lines and compiler line): 189
 # End of script
